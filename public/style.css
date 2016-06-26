@@ -8,6 +8,7 @@ body {
 .description {
   width: 50%;
   height: 20%;
+  font-size: 0.8em;
 }
 
 #about {
